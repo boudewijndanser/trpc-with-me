@@ -1,5 +1,5 @@
 # tRPC with me
-<img src="https://github.com/boudewijndanser/trpc-with-me/blob/public/trpc-with-me-screenshot.png"/>
+<img src="https://github.com/boudewijndanser/trpc-with-me/blob/master/public/trpc-with-me-screenshot.png"/>
 
 
 ### The goal of this sideproject is to
